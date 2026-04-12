@@ -1,0 +1,19 @@
+name: /home/daniel/anaconda-workspace/sample-ml-count-data-regression-analysis/env
+channels:
+  - conda-forge
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - numpy
+  - plotly
+  - seaborn
+  - pandas
+  - scipy
+  - tabulate
+  - scikit-learn
+  - statsmodels
+  - pip
+  - jupyterlab
+  - matplotlib
+  - tqdm
+prefix: /home/daniel/anaconda-workspace/sample-ml-count-data-regression-analysis/env
